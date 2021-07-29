@@ -8,5 +8,10 @@
             "email": "daht740@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload": {
+    "psr-4": {
+      "Daht\\SoftDeletesUnix\\": "src/"
+    }
+  }
 }

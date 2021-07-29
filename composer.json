@@ -1,0 +1,12 @@
+{
+    "name": "daht/soft-deletes-unix",
+    "description": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "daht",
+            "email": "daht740@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,6 +1,6 @@
 {
     "name": "daht/soft-deletes-unix",
-    "description": "laravel",
+    "description": "laravel 软删除修改为unix时间戳",
     "license": "MIT",
     "authors": [
         {
